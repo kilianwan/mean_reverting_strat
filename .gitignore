@@ -1,0 +1,3 @@
+# Ignore raw data files
+data/historical_stock_prices.csv
+data/historical_stocks.csv 
